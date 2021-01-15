@@ -9,6 +9,16 @@ public class TestDev {
 
     private String test;
 
+    private String dev;
+
+    public String getDev() {
+        return dev;
+    }
+
+    public void setDev(String dev) {
+        this.dev = dev;
+    }
+
     public String getTest() {
         return test;
     }
